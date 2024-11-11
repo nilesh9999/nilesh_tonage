@@ -1,4 +1,26 @@
 # nilesh_tonage
+<h1>👋 Hi, I'm Nilesh Tonage - Python Developer</h1>
+
+<ul>
+    <li>💼 <strong>Professional Summary:</strong> 5+ years of experience in Python development using the Django framework.</li>
+    <li>🌐 <strong>Front-End Skills:</strong> Basic knowledge of HTML, CSS, JavaScript, and Bootstrap.</li>
+    <li>🎓 <strong>OOP Expertise:</strong> Solid understanding of object-oriented programming principles.</li>
+    <li>🗄️ <strong>Database Proficiency:</strong> MySQL, MongoDB, Cassandra, Redis, ElasticSearch, and PostgreSQL.</li>
+    <li>🔄 <strong>APIs & Microservices:</strong> Developed RESTful APIs using FastAPI and Flask.</li>
+    <li>🛠️ <strong>Tools & IDEs:</strong> PyCharm, Visual Studio, Jupyter Notebook, and Git for version control.</li>
+    <li>📊 <strong>Data Processing:</strong> Skilled in handling IoT data and creating dashboards with Pandas.</li>
+    <li>📈 <strong>Automation & Testing:</strong> Proficient in unittest and pytest for automation testing.</li>
+    <li>🌐 <strong>Protocols:</strong> Experienced with MQTT, Kafka for data communication.</li>
+    <li>👥 <strong>Team Collaboration:</strong> Flexible, goal-oriented, and capable of working both independently and in a team.</li>
+    <li>📘 <strong>Education:</strong> BE (Mechanical) from Pune University, 2019.</li>
+</ul>
+
+<p>💬 <strong>Reach Me:</strong></p>
+<ul>
+    <li>📧 Email: tonagenilesh7@gmail.com</li>
+    <li>📱 Phone: +91-9370751851</li>
+</ul>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nileshtonage) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nileshtonage) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nileshtonage) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/nileshtonage) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nileshtonage) 
